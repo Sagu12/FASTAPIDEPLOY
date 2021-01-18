@@ -1,0 +1,7 @@
+uvicorn
+pandas
+numpy
+fastapi
+gunicorn==20.0.4
+uvloop
+httptools
